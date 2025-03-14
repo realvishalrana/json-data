@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "category": "Electronics",
+    "price": 999,
+    "type": "high",
+    "maxQuantity": 25,
+    "image": "https://plus.unsplash.com/premium_photo-1680985551009-05107cd2752c?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S23",
+    "category": "Electronics",
+    "price": 899,
+    "type": "medium",
+    "maxQuantity": 40,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 7",
+    "category": "Electronics",
+    "price": 699,
+    "type": "low",
+    "maxQuantity": 20,
+    "image": "https://plus.unsplash.com/premium_photo-1680985551009-05107cd2752c?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro",
+    "category": "Electronics",
+    "price": 1399,
+    "type": "high",
+    "maxQuantity": 15,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 1299,
+    "type": "medium",
+    "maxQuantity": 30,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "category": "Wearables",
+    "price": 349,
+    "type": "high",
+    "maxQuantity": 10,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Bose QC35",
+    "category": "Wearables",
+    "price": 299,
+    "type": "low",
+    "maxQuantity": 20,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Canon EOS R6",
+    "category": "Cameras",
+    "price": 1499,
+    "type": "high",
+    "maxQuantity": 5,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "DJI Mavic Air 2",
+    "category": "Cameras",
+    "price": 899,
+    "type": "medium",
+    "maxQuantity": 12,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 8",
+    "category": "Wearables",
+    "price": 399,
+    "type": "low",
+    "maxQuantity": 35,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop"
+  }
+]
